@@ -4,4 +4,5 @@
 # Spam, Misleading, Clickbait & Untrustworthy 
 /[A-Za-z0-9]+\.express\.co\.uk/
 /[A-Za-z0-9]+\.the-express\.com/
+/[A-Za-z0-9]+\.thesun\.co\.uk/
 /[A-Za-z0-9]+\.softonic\.[A-Za-z0-9]/
